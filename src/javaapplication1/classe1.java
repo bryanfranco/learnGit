@@ -10,6 +10,6 @@ package javaapplication1;
  * @author pedago
  */
 public class classe1 {
-    
+    String dab = new String("Dab");
 }
 //commentaire
