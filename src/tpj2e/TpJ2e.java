@@ -18,7 +18,7 @@ public class TpJ2e {
     public static void main(String[] args) {
         
         System.out.println("Hello World");
-        System.out.println("How Are You ?");
+        System.out.println("How Are?");
     }
     
 }
