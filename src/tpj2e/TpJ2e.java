@@ -10,6 +10,7 @@ package tpj2e;
  * @author pedago
  */
 public class TpJ2e {
+    int a = 1;
 
     /**
      * @param args the command line arguments
